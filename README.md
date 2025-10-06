@@ -5,9 +5,16 @@ Desenvolvedor Backend e Full-Stack com experiência em sistemas de crédito, sol
 
 ---
 
-## 🎖️ Holopin Badges
+## 📊 Estatísticas do GitHub
 
-[![An image of @fbcamargo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fbcamargo)](https://holopin.io/@fbcamargo)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fbcamargo&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbcamargo&layout=compact&langs_count=6&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fbcamargo&theme=redical&hide_border=true&area=true" />
+</p>
 
 ---
 
@@ -48,23 +55,6 @@ Desenvolvedor Backend e Full-Stack com experiência em sistemas de crédito, sol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fbcamargo&show_icons=true&theme=radical&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbcamargo&layout=compact&langs_count=6&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fbcamargo&theme=redical&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbcamargo&theme=radical" />
-</p>
 
 ---
 
