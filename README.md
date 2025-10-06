@@ -8,7 +8,7 @@ Desenvolvedor Backend e Full-Stack com experiência em sistemas de crédito, sol
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fbcamargo&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fbcamargo&show_icons=true&theme=radical&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbcamargo&layout=compact&langs_count=6&theme=radical" />
 </p>
 
